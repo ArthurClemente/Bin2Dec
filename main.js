@@ -9,5 +9,5 @@ function converter() {
         resultado += parseInt(x[c]) * Math.pow(2, (x.length-1)-c)
     }
 
-    document.getElementById("dec-out").innerHTML = resultado
+    document.getElementById("dec-out").value = resultado
 }
