@@ -17,5 +17,10 @@ This challenge requires that the developer implementing it follow these constrai
 - [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 ## Bonus features
 - [x] User can enter a variable number of binary digits
+
+# Como usar
+- Baixe ou clone o repositório
+- Abra a pasta Bin2Dec-master
+- Execute o arquivo index.html
 ## Image
  ![exemplo](https://i.imgur.com/YdT7LQC.png "exemplo")
